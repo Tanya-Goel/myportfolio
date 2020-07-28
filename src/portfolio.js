@@ -76,7 +76,7 @@ const settings = {
 		title: "Full Stack Development",
 		fileName: "FullStackImg",
 		skills: [
-		  "⚡ Building resposive website front end using React-Redux",
+		  "⚡ Building resposive website front end using React",
 		  "⚡ Developing mobile applications using  React Native and solo android apps",
 		  "⚡ Creating application backend in Spring MVC,Spring Boot"
 		],
@@ -333,7 +333,7 @@ const settings = {
 		  "⚡ Apart from this, I have done courses on Full Stack Development.",
 		  "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics."
 		],
-	  //   website_link: "http://iiitk.ac.in"
+	    website_link: "https://aktu.ac.in/"
 	  }
 	]
    }
