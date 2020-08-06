@@ -1,6 +1,6 @@
 {
-  "name": "myMasterPortfolio",
-  "homepage": "https://Tanya-Goel.github.io/myMasterPortfolio",
+  "name": "myportfolio",
+  "homepage": "https://Tanya-Goel.github.io/myportfolio",
   "version": "0.1.0",
   "scripts": {
     "predeploy": "npm run build",
