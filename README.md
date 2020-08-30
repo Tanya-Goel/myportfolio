@@ -9,7 +9,7 @@
 ✔️ Contact me
 ✔️ Memories
 
-To view a live example, **[click here](https://tanya-goel.github.io/myMasterPortfolio/)**
+To view a live example, **[click here](https://tanya-goel.github.io/my_wiki/)**
 
 
 # References 👏🏻
