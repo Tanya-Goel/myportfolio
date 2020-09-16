@@ -11,6 +11,3 @@
 
 To view a live example, **[click here](https://tanya-goel.github.io/my_wiki/)**
 
-
-# References 👏🏻
-Ashutosh Hathidara Github
